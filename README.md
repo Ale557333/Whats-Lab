@@ -43,7 +43,7 @@ Os critérios foram:
 
 ## 🌎 Como acessar o projeto
 
-- [Link do surge](far-flung-quilt.surge.sh)
+- [Link do surge](https://far-flung-quilt.surge.sh/)
 
 
 ## 🚀 Tecnologias utilizadas
