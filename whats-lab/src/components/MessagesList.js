@@ -12,27 +12,18 @@ const MessagesContainer = styled.div`
   border-radius: 5px;
   border: 1px solid lightgray;
 
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
-
 `;
 
 const Message = styled.p`
-  background-color: #075E54;
+  background-color: #34B7F1;
   margin: 3px;
   width: 50%;
   padding: 12px 15px;
   border-radius: 6px;
   border: 1px solid lightgray;
 
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
-
 `;
+
 const MyMessage = styled.p`
   align-self: flex-end;
   background-color: #075E54;
@@ -42,11 +33,6 @@ const MyMessage = styled.p`
   width: 50%;
   border-radius: 5px;
   border: 1px solid lightgray;
-
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
 
 `;
 

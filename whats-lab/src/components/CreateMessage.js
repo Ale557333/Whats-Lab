@@ -7,11 +7,6 @@ const Container = styled.div`
   height: 2em;
   display: flex;
 
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
-
 `;
 
 const UserInput = styled.input`
@@ -21,11 +16,6 @@ const UserInput = styled.input`
   margin: 3px 8px;
   width: 80px;
 
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
-
 `;
 
 const MessageInput = styled.input`
@@ -34,11 +24,6 @@ const MessageInput = styled.input`
   border: 1px solid lightgray;
   margin: 3px 4px 3px 8px;
   flex-grow: 1;
-
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
 
 `;
 
@@ -50,11 +35,6 @@ const SendMessage = styled.button`
   color: white;
   font-weight: bold;
   font-size: 16px;
-
-  @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-/* celulares */
-  display: flex;
-}
 
 `;
 
