@@ -1,5 +1,5 @@
 
-# WhatsLab
+# 💬 WhatsLab
 
 O projeto Whats-lab foi desenvolvido para colocar o conceito do trabalho em dupla em prática com os conteúdos estudados até momento no Bootcamp da Labenu: React.js e Styled-Components.
 
