@@ -1,6 +1,8 @@
 
 # WhatsLab
 
+O projeto Whats-lab foi desenvolvido para colocar o conceito do trabalho em dupla em prática com os conteúdos estudados até momento no Bootcamp da Labenu: React.js e Styled-Components.
+
 ![20210727_133623](https://user-images.githubusercontent.com/71138743/127194419-cc7b35f4-90bb-4484-ae86-c719833135a2.gif)
 
 ---
@@ -17,7 +19,7 @@
 ## 🖋 Descrição do projeto
 
 ## Introduzindo o conceito de Pair Programming!
-O projeto Whats-lab foi desenvolvido para colocar o conceito do trabalho em dupla em prática com os conteúdos estudados até momento no Bootcamp da Labenu: React.js e Styled-Components.
+
 Trata-se de um aplicativo semelhante ao WhatsApp, Telegram, Messenger, mas sem a necessidade de desenvolver um sistema que envie e receba mensagens de fora, e sim que crie algo que simplesmente mostre novas mensagens.
 
 Os critérios foram:
